@@ -1,1 +1,10 @@
-
+#Heading1
+##Heading2
+###Heading3
+This is a paragraph that is practice.
+This is another paragraph and it is longer than the first one.
+This is a paragraph in __bold__ or **bold**
+This is a 4th paragraph in _italic_ or *italic*
+{course website}(https://moodle.umt.edu/mod/assign/view.php?id=2764168)
+!{picture of a dog}(https://www.google.com/search?sca_esv=41af24155a5007c9&sca_upv=1&rlz=1C5CHFA_enUS812US812&sxsrf=ACQVn08xJlnNpNV6KdvzzijG-R6hZ82TYQ:1708325632255&q=pug&tbm=isch&source=lnms&sa=X&ved=2ahUKEwitlOLz6LaEAxXZFjQIHWDKBnsQ0pQJegQIDhAB&biw=1440&bih=779&dpr=1#imgrc=3C-x9cHta6DGlM)
+'''website
